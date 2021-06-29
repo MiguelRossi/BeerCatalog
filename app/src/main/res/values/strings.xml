@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">Beer Catalog</string>
+	<string name="beer_name_title">Beer Name:</string>
+	<string name="beer_abv_title">Beer ABV:</string>
+	<string name="beer_description_title">Beer Description:</string>
+	<string name="brewer_tips_title">Brewer Tips:</string>
+	<string name="retry">Retry</string>
+	<string name="refresh">refresh</string>
+</resources>
